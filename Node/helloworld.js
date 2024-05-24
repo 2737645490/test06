@@ -7,3 +7,6 @@ app.use('/index',(req,res)=>{
 app.listen(3000，（）=>{
   console.log('The server is running...');
 })
+
+
+watch 操作
